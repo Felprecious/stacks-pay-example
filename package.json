@@ -1,9 +1,10 @@
 {
   "name": "stacks-pay-example",
   "version": "1.0.0",
-  "description": "Example project using stacks-pay-sdk",
+  "description": "Example project using stacks-pay-sdk and hashlock-lending-sdk",
   "main": "index.js",
   "dependencies": {
-    "stacks-pay-sdk": "1.0.4"
+    "stacks-pay-sdk": "1.0.4",
+    "hashlock-lending-sdk": "1.0.1"
   }
 }
