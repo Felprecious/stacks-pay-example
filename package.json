@@ -4,6 +4,6 @@
   "description": "Example project using stacks-pay-sdk",
   "main": "index.js",
   "dependencies": {
-    "stacks-pay-sdk": "^1.0.4"
+    "stacks-pay-sdk": "1.0.4"
   }
 }
