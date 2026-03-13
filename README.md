@@ -4,4 +4,4 @@ Install dependencies
 
 npm install
 Run he rect
-node indxs
+node idxs
