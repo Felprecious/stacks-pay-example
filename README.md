@@ -3,5 +3,5 @@
 Install dependencies
 
 npm insta
-Run he pr
+Run he p
 no
