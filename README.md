@@ -3,5 +3,5 @@
 Install dependencies
 
 npm instal
-Run the pro
+Run the pr
 node inde
