@@ -4,4 +4,3 @@ Install dependencies
 
 npm install
 Run he 
-n
