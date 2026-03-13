@@ -4,4 +4,4 @@ Install dependencies
 
 npm install
 
-Run the pro
+Run the pr
