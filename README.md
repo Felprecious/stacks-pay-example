@@ -3,6 +3,5 @@
 Install dependencies
 
 npm install
-
 Run the prject
 node indxjs
