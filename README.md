@@ -4,5 +4,5 @@ Install dependencies
 
 npm install
 
-Run the projet
+Run the proje
 node index.
