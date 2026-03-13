@@ -3,5 +3,5 @@
 Install dependencies
 
 npm install
-Run the prject
+Run the rject
 node indxjs
