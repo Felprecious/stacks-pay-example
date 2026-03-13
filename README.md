@@ -4,4 +4,4 @@ Install dependencies
 
 npm install
 
-Run the pr
+Run the p
