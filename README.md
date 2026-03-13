@@ -6,4 +6,4 @@ npm install
 
 Run the project
 
-node ind
+node in
