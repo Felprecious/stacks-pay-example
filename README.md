@@ -4,4 +4,4 @@ Install dependencies
 
 npm install
 Run he r
-node i
+node 
