@@ -3,5 +3,5 @@
 Install dependencies
 
 npm install
-Run he r
+Run he 
 node
