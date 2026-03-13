@@ -1,10 +1,23 @@
 {
   "name": "stacks-pay-example",
   "version": "1.0.0",
-  "description": "Example project using stacks-pay-sdk and hashlock-lending-sdk",
+  "description": "Example project using stacks-pay-sdk, hashlock-lending-sdk, stx-vault-sdk, stx-defi-activity-sdk, and stx-portfolio-sdk",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/stacks-pay-example.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
   "dependencies": {
-    "stacks-pay-sdk": "1.0.4",
-    "hashlock-lending-sdk": "1.0.1"
+    "stacks-pay-sdk": "^1.0.4",
+    "hashlock-lending-sdk": "^1.0.1",
+    "stx-vault-sdk": "^1.0.1",
+    "stx-defi-activity-sdk": "^1.0.3",
+    "stx-portfolio-sdk": "^1.0.3"
   }
 }
