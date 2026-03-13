@@ -3,5 +3,5 @@
 Install dependencies
 
 npm instal
-Run the pr
+Run he pr
 no
