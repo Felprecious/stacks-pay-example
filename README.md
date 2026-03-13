@@ -4,5 +4,5 @@ Install dependencies
 
 npm install
 
-Run the project
+Run the prject
 node indexjs
