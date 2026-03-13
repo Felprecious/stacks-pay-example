@@ -6,4 +6,3 @@ npm install
 
 Run the project
 
-n
