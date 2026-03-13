@@ -3,4 +3,7 @@
 Install dependencies
 
 npm install
-Run he 
+
+Run the project
+
+node index.js
