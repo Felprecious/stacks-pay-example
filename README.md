@@ -4,4 +4,4 @@ Install dependencies
 
 npm install
 Run he re
-node ids
+node id
