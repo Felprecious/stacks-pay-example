@@ -2,6 +2,6 @@
 
 Install dependencies
 
-npm instal
+npm insta
 Run he pr
 no
