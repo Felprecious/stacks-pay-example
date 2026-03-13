@@ -4,4 +4,4 @@ Install dependencies
 
 npm instal
 Run the pr
-nod
+no
