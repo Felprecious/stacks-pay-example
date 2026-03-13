@@ -3,5 +3,5 @@
 Install dependencies
 
 npm install
-Run the rject
+Run he rject
 node indxs
