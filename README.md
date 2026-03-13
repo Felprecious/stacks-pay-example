@@ -2,7 +2,7 @@
 
 Install dependencies
 
-npm install
+npm instal
 
 Run the pro
 node index.
