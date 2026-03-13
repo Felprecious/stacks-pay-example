@@ -3,5 +3,5 @@
 Install dependencies
 
 npm install
-Run he ret
+Run he re
 node ids
