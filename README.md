@@ -4,4 +4,6 @@ Install dependencies
 
 npm install
 
-R
+Run the project
+
+node index.js
