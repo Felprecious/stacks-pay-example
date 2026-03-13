@@ -3,5 +3,5 @@
 Install dependencies
 
 npm instal
-Run the prl
+Run the pr
 nod
