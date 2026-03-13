@@ -4,4 +4,4 @@ Install dependencies
 
 npm instal
 Run the prl
-node in
+node n
