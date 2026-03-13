@@ -4,5 +4,5 @@ Install dependencies
 
 npm install
 
-Run the proe
+Run the pro
 node index.
