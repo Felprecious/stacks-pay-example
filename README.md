@@ -4,4 +4,4 @@ Install dependencies
 
 npm instal
 Run the pro
-node inde
+node indel
