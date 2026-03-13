@@ -3,5 +3,5 @@
 Install dependencies
 
 npm install
-Run he rject
+Run he rect
 node indxs
