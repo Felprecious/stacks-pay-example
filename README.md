@@ -2,4 +2,4 @@
 
 Install dependencies
 npm insta
-Run 
+Run
