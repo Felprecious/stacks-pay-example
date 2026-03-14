@@ -3,4 +3,4 @@
 Install dependencies
 
 npm insta
-Run h
+Run 
