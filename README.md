@@ -1,4 +1,6 @@
 # Stacks Pay Example
-Install depend
-npm 
-Ru
+
+Install dependencies
+
+npm insta
+Run h
