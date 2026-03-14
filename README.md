@@ -1,5 +1,5 @@
 # Stacks Pay Example
 
 Install dependenci
-npm ins
+npm in
 Ru
