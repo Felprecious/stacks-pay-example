@@ -1,5 +1,5 @@
 # Stacks Pay Example
 
 Install dependencies
-npm insta
+npm inst
 Run
